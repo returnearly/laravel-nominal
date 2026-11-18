@@ -13,7 +13,7 @@ Business logic lives in Actions via [`returnearly/actions-pattern`](https://gith
 
 ## Requirements
 
-- PHP 8.4, 8.5, or 8.6
+- PHP 8.4 or 8.5
 - Laravel 12 or 13
 
 ## Installation
